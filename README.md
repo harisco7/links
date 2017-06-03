@@ -1,5 +1,4 @@
 # Highly personalized list of interesting web resources
-<br /><br />
 [Customize the Browser's Scrollbar with CSS](https://scotch.io/tutorials/customize-the-browsers-scrollbar-with-css)
 > There are basically a few ways to implement a custom scrollbar. In this tutorial we will be using CSS3, which is the most straightforward way.
 ***

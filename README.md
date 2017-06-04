@@ -24,6 +24,9 @@
 [Very cool pure CSS  loader](https://codepen.io/bojankrsmanovic/pen/dpzZkm)
 > A very cool pure CSS loader.
 ***
+[101 of the Best Resources for Web Designers](http://blog.lemonstand.com/101-best-resources-for-web-designers/)
+> Looking for tools and resources to make your life as a designer easier? We got you covered.
+***
 <br /><br />
 ## #QuickReads
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)

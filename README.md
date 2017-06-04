@@ -12,6 +12,9 @@
 [A Directory of Progressive Web Apps](https://pwa-directory.appspot.com/)
 > A collection of various Progressive Web Apps to inspire you and help you with your own.
 ***
+[Hover.css](https://ianlunn.github.io/Hover/)
+> A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. 
+***
 <br /><br />
 ## #QuickReads
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)

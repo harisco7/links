@@ -1,5 +1,8 @@
 # Highly personalized list of interesting web resources
 <br /><br />
+[What algorithms should I know to become a good programmer?](https://www.quora.com/What-algorithms-should-I-know-to-become-a-good-programmer/answer/Ashish-Kedia)
+> A friendly reminder on what algorithms should I know to one day be part of the #GoodProgrammer group. Come back to the list every once and a while to continue the learning process.
+***
 [Customize the Browser's Scrollbar with CSS](https://scotch.io/tutorials/customize-the-browsers-scrollbar-with-css)
 > There are basically a few ways to implement a custom scrollbar. In this tutorial we will be using CSS3, which is the most straightforward way.
 ***

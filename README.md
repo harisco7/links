@@ -33,3 +33,6 @@
 [Smashing Semantic SEO in 2017 & Beyond](http://www.digitalcurrent.com/seo-engine-optimization/semantic-seo-guide/)
 > Implement these three SEO tactics in this ultimate semantic SEO guide for 2017 to fully optimize for voice search and the progression of Google search engine results.
 ***
+[Patterns and Practices in C# 7](https://www.infoq.com/articles/Patterns-Practices-CSharp-7)
+> C# 7 is a major update with a lot of interesting new capabilities. And while there are plenty of articles on what you can do with it, there aren't quite as many on what you should do with it. 
+***

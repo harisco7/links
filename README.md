@@ -19,5 +19,7 @@
 ***
 <br /><br />
 ## #ShouldReads
-
+[How To Secure Your Web App With HTTP Headers](https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/)
+> HTTP response headers can be leveraged to tighten up the security of web apps, typically just by adding a few lines of code. In this article, we’ll show how web developers can use HTTP headers to build secure apps.
+***
 ## #GoodReads

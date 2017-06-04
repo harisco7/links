@@ -21,6 +21,9 @@
 [Useful Pens for Everyday Front End Development](https://codepen.io/collection/nMgKxJ/3/)
 > This collection is a way of bookmarking some techniques that will be useful in practice in everyday dev.
 ***
+[Very cool pure CSS  loader](https://codepen.io/bojankrsmanovic/pen/dpzZkm)
+> A very cool pure CSS loader.
+***
 <br /><br />
 ## #QuickReads
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)

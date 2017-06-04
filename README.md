@@ -26,3 +26,6 @@
 > The idea was simple: a form where you tweak your dashboard with new background colors, widget colors, font-sizes etc. and we would display a live preview of what your dashboard will look like. #CSSvariables
 ***
 ## #GoodReads
+[A technical guide to SEO](https://ma.ttias.be/technical-guide-seo/)
+> If you're the owner or maintainer of a website, you know SEO matters. A lot. This guide is meant to be an accurate list of all technical aspects of search engine optimisation.
+***

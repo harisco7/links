@@ -25,7 +25,11 @@
 [How we made our product more personalized with CSS Variables and React](https://medium.com/geckoboard-under-the-hood/how-we-made-our-product-more-personalized-with-css-variables-and-react-b29298fde608)
 > The idea was simple: a form where you tweak your dashboard with new background colors, widget colors, font-sizes etc. and we would display a live preview of what your dashboard will look like. #CSSvariables
 ***
+<br /><br />
 ## #GoodReads
 [A technical guide to SEO](https://ma.ttias.be/technical-guide-seo/)
 > If you're the owner or maintainer of a website, you know SEO matters. A lot. This guide is meant to be an accurate list of all technical aspects of search engine optimisation.
+***
+[Smashing Semantic SEO in 2017 & Beyond](http://www.digitalcurrent.com/seo-engine-optimization/semantic-seo-guide/)
+> Implement these three SEO tactics in this ultimate semantic SEO guide for 2017 to fully optimize for voice search and the progression of Google search engine results.
 ***

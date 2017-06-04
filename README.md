@@ -39,3 +39,6 @@
 [Patterns and Practices in C# 7](https://www.infoq.com/articles/Patterns-Practices-CSharp-7)
 > C# 7 is a major update with a lot of interesting new capabilities. And while there are plenty of articles on what you can do with it, there aren't quite as many on what you should do with it. 
 ***
+[JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)
+> Once the browser has downloaded our page’s scripts it then has to parse, interpret & run them. In this post, we’ll dive into this phase for JavaScript, why it might be slowing down your app’s start-up & how you can fix it.
+***

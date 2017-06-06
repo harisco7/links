@@ -27,6 +27,9 @@
 [101 of the Best Resources for Web Designers](http://blog.lemonstand.com/101-best-resources-for-web-designers/)
 > Looking for tools and resources to make your life as a designer easier? We got you covered.
 ***
+[ASP.NET Core 12 samples](http://piotrgankiewicz.com/2017/04/17/asp-net-core-12-samples/)
+> In today’s post, I’d like to present a dozen of minimalistic samples that you can make use of within ASP.NET Core application. Starting from simple things like options, through middleware, databases and even Nginx or Docker.
+***
 <br /><br />
 ## #QuickReads
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)

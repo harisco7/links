@@ -35,6 +35,9 @@
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
 > I was chatting with Tim just the other day about how much I love Git—it’s such a powerful, elegant tool and it’s one I use the most often. I thought I would note down some useful little Git snippets that I use the most frequently.
 ***
+[5 Technical SEO Traps to Dodge](https://www.sitepoint.com/technical-seo-traps-to-dodge/)
+> Here are five of the most common or trickiest to diagnose technical SEO mistakes you should avoid on your website.
+***
 <br /><br />
 ## #ShouldReads
 [How To Secure Your Web App With HTTP Headers](https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/)

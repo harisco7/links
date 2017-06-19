@@ -49,6 +49,9 @@
 [How To Secure Your Web App With HTTP Headers](https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/)
 > HTTP response headers can be leveraged to tighten up the security of web apps, typically just by adding a few lines of code. In this article, we’ll show how web developers can use HTTP headers to build secure apps.
 ***
+[Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56)
+> Developing secure, robust web applications in the cloud is hard, very hard. If you think it is easy, you are either a higher form of life or you have a painful awakening ahead of you.
+***
 [How we made our product more personalized with CSS Variables and React](https://medium.com/geckoboard-under-the-hood/how-we-made-our-product-more-personalized-with-css-variables-and-react-b29298fde608)
 > The idea was simple: a form where you tweak your dashboard with new background colors, widget colors, font-sizes etc. and we would display a live preview of what your dashboard will look like. #CSSvariables
 ***

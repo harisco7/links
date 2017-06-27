@@ -36,6 +36,9 @@
 [TodoMVC for the RealWorld](https://github.com/gothinkster/realworld)
 > Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more.
 ***
+[Automated browser testing for the modern web development stack](https://devexpress.github.io/testcafe/)
+> TestCafe is a pure node.js end-to-end solution for testing web apps. It takes care of all the stages: starting browsers, running tests, gathering test results and generating reports. TestCafe doesn’t need browser plugins - it works in all popular modern browsers out-of-the-box.
+***
 <br /><br />
 ## #QuickReads
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)

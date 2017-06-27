@@ -47,6 +47,9 @@
 [5 Technical SEO Traps to Dodge](https://www.sitepoint.com/technical-seo-traps-to-dodge/)
 > Here are five of the most common or trickiest to diagnose technical SEO mistakes you should avoid on your website.
 ***
+[CSS Custom Properties and Theming](https://css-tricks.com/css-custom-properties-theming/)
+> There are a few esoteric things preprocessor variables can do that native variables cannot, but for the most part, native variables can do the same things. But, they are more powerful because of how they are live-interpolated.
+***
 <br /><br />
 ## #ShouldReads
 [How To Secure Your Web App With HTTP Headers](https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/)

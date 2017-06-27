@@ -58,6 +58,9 @@
 [How we made our product more personalized with CSS Variables and React](https://medium.com/geckoboard-under-the-hood/how-we-made-our-product-more-personalized-with-css-variables-and-react-b29298fde608)
 > The idea was simple: a form where you tweak your dashboard with new background colors, widget colors, font-sizes etc. and we would display a live preview of what your dashboard will look like. #CSSvariables
 ***
+[Optimizing Web Fonts for Performance: the State of the Art](https://www.sitepoint.com/optimizing-web-fonts-for-performance-the-state-of-the-art/)
+> In this article, I’ll go through what’s not so good about the way web fonts are commonly used and loaded, as well as point you to well-tested workarounds and future standards-based solutions.
+***
 <br /><br />
 ## #GoodReads
 [A technical guide to SEO](https://ma.ttias.be/technical-guide-seo/)

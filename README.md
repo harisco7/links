@@ -21,6 +21,9 @@
 [The Security Checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md)
 > The Security Checklist
 ***
+[Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56)
+> Developing secure, robust web applications in the cloud is hard, very hard. If you think it is easy, you are either a higher form of life or you have a painful awakening ahead of you.
+***
 [Useful Pens for Everyday Front End Development](https://codepen.io/collection/nMgKxJ/3/)
 > This collection is a way of bookmarking some techniques that will be useful in practice in everyday dev.
 ***

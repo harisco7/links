@@ -42,6 +42,9 @@
 [Automated browser testing for the modern web development stack](https://devexpress.github.io/testcafe/)
 > TestCafe is a pure node.js end-to-end solution for testing web apps. It takes care of all the stages: starting browsers, running tests, gathering test results and generating reports. TestCafe doesn’t need browser plugins - it works in all popular modern browsers out-of-the-box.
 ***
+[Fluid Responsive Typography With CSS Poly Fluid Sizing](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)
+> Fluid layouts have been a normal part of front-end development for years. The idea of fluid typography, however, is relatively new and has yet to be fully explored. Up until now, most developers’ idea of fluid typography is simply using Viewport units maybe with some minimum and maximum sizes.
+***
 <br /><br />
 ## #QuickReads
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)

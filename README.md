@@ -45,6 +45,9 @@
 [Fluid Responsive Typography With CSS Poly Fluid Sizing](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)
 > Fluid layouts have been a normal part of front-end development for years. The idea of fluid typography, however, is relatively new and has yet to be fully explored. Up until now, most developers’ idea of fluid typography is simply using Viewport units maybe with some minimum and maximum sizes.
 ***
+[67 useful tools, libraries and resources for saving your time as a web developer](https://hackernoon.com/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-7d3fb8667030)
+> In this article I won’t be talking about big front end frameworks such as React, Angular, Vue etc… nor already popular code editors like Atom, VS Code, Sublime… I simply want to share a list of tools I find useful for speeding up a developer’s workflow.
+***
 <br /><br />
 ## #QuickReads
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)

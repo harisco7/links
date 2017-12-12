@@ -87,3 +87,6 @@
 [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)
 > Once the browser has downloaded our page’s scripts it then has to parse, interpret & run them. In this post, we’ll dive into this phase for JavaScript, why it might be slowing down your app’s start-up & how you can fix it.
 ***
+[Front End Performance Checklist 2017](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/)
+> Back in the day, performance was often a mere afterthought. Often deferred till the very end of the project, it would boil down to minification, concatenation, asset optimization and potentially a few fine adjustments on the server’s config file. Looking back now, things seem to have changed quite significantly.
+***

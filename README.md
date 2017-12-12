@@ -21,6 +21,9 @@
 [The Security Checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md)
 > The Security Checklist
 ***
+[Curated SEO Tools](https://curatedseotools.com/)
+> Best SEO Tools Stash: 255 awesome products right now.
+***
 [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56)
 > Developing secure, robust web applications in the cloud is hard, very hard. If you think it is easy, you are either a higher form of life or you have a painful awakening ahead of you.
 ***

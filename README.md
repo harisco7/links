@@ -51,6 +51,10 @@
 [67 useful tools, libraries and resources for saving your time as a web developer](https://hackernoon.com/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-7d3fb8667030)
 > In this article I won’t be talking about big front end frameworks such as React, Angular, Vue etc… nor already popular code editors like Atom, VS Code, Sublime… I simply want to share a list of tools I find useful for speeding up a developer’s workflow.
 ***
+***
+[Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
+> However, despite the fact that all modern browsers can run ES2015+ code and natively support the features I just mentioned, most developers still transpile their code to ES5 and bundle it with polyfills to accommodate the small percentage of users still on older browsers.
+***
 <br /><br />
 ## #QuickReads
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)

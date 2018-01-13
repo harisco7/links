@@ -21,9 +21,6 @@
 [The Security Checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md)
 > The Security Checklist
 ***
-[Curated SEO Tools](https://curatedseotools.com/)
-> Best SEO Tools Stash: 255 awesome products right now.
-***
 [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56)
 > Developing secure, robust web applications in the cloud is hard, very hard. If you think it is easy, you are either a higher form of life or you have a painful awakening ahead of you.
 ***
@@ -35,9 +32,6 @@
 ***
 [101 of the Best Resources for Web Designers](http://blog.lemonstand.com/101-best-resources-for-web-designers/)
 > Looking for tools and resources to make your life as a designer easier? We got you covered.
-***
-[ASP.NET Core 12 samples](http://piotrgankiewicz.com/2017/04/17/asp-net-core-12-samples/)
-> In today’s post, I’d like to present a dozen of minimalistic samples that you can make use of within ASP.NET Core application. Starting from simple things like options, through middleware, databases and even Nginx or Docker.
 ***
 [TodoMVC for the RealWorld](https://github.com/gothinkster/realworld)
 > Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more.
@@ -60,9 +54,6 @@
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
 > I was chatting with Tim just the other day about how much I love Git—it’s such a powerful, elegant tool and it’s one I use the most often. I thought I would note down some useful little Git snippets that I use the most frequently.
 ***
-[5 Technical SEO Traps to Dodge](https://www.sitepoint.com/technical-seo-traps-to-dodge/)
-> Here are five of the most common or trickiest to diagnose technical SEO mistakes you should avoid on your website.
-***
 [CSS Custom Properties and Theming](https://css-tricks.com/css-custom-properties-theming/)
 > There are a few esoteric things preprocessor variables can do that native variables cannot, but for the most part, native variables can do the same things. But, they are more powerful because of how they are live-interpolated.
 ***
@@ -82,15 +73,6 @@
 ***
 <br /><br />
 ## #GoodReads
-[A technical guide to SEO](https://ma.ttias.be/technical-guide-seo/)
-> If you're the owner or maintainer of a website, you know SEO matters. A lot. This guide is meant to be an accurate list of all technical aspects of search engine optimisation.
-***
-[Smashing Semantic SEO in 2017 & Beyond](http://www.digitalcurrent.com/seo-engine-optimization/semantic-seo-guide/)
-> Implement these three SEO tactics in this ultimate semantic SEO guide for 2017 to fully optimize for voice search and the progression of Google search engine results.
-***
-[Patterns and Practices in C# 7](https://www.infoq.com/articles/Patterns-Practices-CSharp-7)
-> C# 7 is a major update with a lot of interesting new capabilities. And while there are plenty of articles on what you can do with it, there aren't quite as many on what you should do with it. 
-***
 [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)
 > Once the browser has downloaded our page’s scripts it then has to parse, interpret & run them. In this post, we’ll dive into this phase for JavaScript, why it might be slowing down your app’s start-up & how you can fix it.
 ***

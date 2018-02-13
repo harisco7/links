@@ -79,3 +79,7 @@
 [Front End Performance Checklist 2017](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/)
 > Back in the day, performance was often a mere afterthought. Often deferred till the very end of the project, it would boil down to minification, concatenation, asset optimization and potentially a few fine adjustments on the server’s config file. Looking back now, things seem to have changed quite significantly.
 ***
+<br /><br />
+## #MicroInteractions
+[Infinity loader with backdrop  ](https://codepen.io/hsmajlagic/pen/PQKYXY)
+***

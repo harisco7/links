@@ -51,6 +51,9 @@
 [How to Create and Publish Your First Node.js Module](https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
 > A handy guide with additional resources for publishing your NPM module.
 ***
+[The Front-End Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
+> An Exhaustive List of all the Elements you need to have/test Before Launching your Website To Production.
+***
 <br /><br />
 ## #QuickReads
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)

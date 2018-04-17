@@ -99,3 +99,5 @@
 ***
 [Font style matcher](https://meowni.ca/font-style-matcher/)
 ***
+[The Inter UI font family](https://rsms.me/inter/)
+***

@@ -93,3 +93,9 @@
 [Very cool pure CSS  loader](https://codepen.io/bojankrsmanovic/pen/dpzZkm)
 > A very cool pure CSS loader.
 ***
+<br /><br />
+## #Bookmarks
+[Font Face Observer](https://fontfaceobserver.com/)
+***
+[Font style matcher](https://meowni.ca/font-style-matcher/)
+***

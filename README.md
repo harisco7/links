@@ -3,9 +3,6 @@
 [What algorithms should I know to become a good programmer?](https://www.quora.com/What-algorithms-should-I-know-to-become-a-good-programmer/answer/Ashish-Kedia)
 > A friendly reminder on what algorithms should I know to one day be part of the #GoodProgrammer group. Come back to the list every once and a while to continue the learning process.
 ***
-[Customize the Browser's Scrollbar with CSS](https://scotch.io/tutorials/customize-the-browsers-scrollbar-with-css)
-> There are basically a few ways to implement a custom scrollbar. In this tutorial we will be using CSS3, which is the most straightforward way.
-***
 [A curated directory of boilerplates to help you start your projects!](http://www.boilrplate.com/)
 > A good index of a lot of starter kits and boilerplates available out there.
 ***
@@ -15,9 +12,6 @@
 [JavaScript Libraries for Progressive Web Apps](https://workboxjs.org/)
 > Workbox is a collection of JavaScript libraries for Progressive Web Apps
 ***
-[Hover.css](https://ianlunn.github.io/Hover/)
-> A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. 
-***
 [The Security Checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md)
 > The Security Checklist
 ***
@@ -26,9 +20,6 @@
 ***
 [Useful Pens for Everyday Front End Development](https://codepen.io/collection/nMgKxJ/3/)
 > This collection is a way of bookmarking some techniques that will be useful in practice in everyday dev.
-***
-[Very cool pure CSS  loader](https://codepen.io/bojankrsmanovic/pen/dpzZkm)
-> A very cool pure CSS loader.
 ***
 [101 of the Best Resources for Web Designers](http://blog.lemonstand.com/101-best-resources-for-web-designers/)
 > Looking for tools and resources to make your life as a designer easier? We got you covered.
@@ -54,16 +45,12 @@
 [The Front-End Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
 > An Exhaustive List of all the Elements you need to have/test Before Launching your Website To Production.
 ***
-<br /><br />
-## #QuickReads
 [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
 > I was chatting with Tim just the other day about how much I love Git—it’s such a powerful, elegant tool and it’s one I use the most often. I thought I would note down some useful little Git snippets that I use the most frequently.
 ***
 [CSS Custom Properties and Theming](https://css-tricks.com/css-custom-properties-theming/)
 > There are a few esoteric things preprocessor variables can do that native variables cannot, but for the most part, native variables can do the same things. But, they are more powerful because of how they are live-interpolated.
 ***
-<br /><br />
-## #ShouldReads
 [How To Secure Your Web App With HTTP Headers](https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/)
 > HTTP response headers can be leveraged to tighten up the security of web apps, typically just by adding a few lines of code. In this article, we’ll show how web developers can use HTTP headers to build secure apps.
 ***
@@ -75,6 +62,9 @@
 ***
 [Optimizing Web Fonts for Performance: the State of the Art](https://www.sitepoint.com/optimizing-web-fonts-for-performance-the-state-of-the-art/)
 > In this article, I’ll go through what’s not so good about the way web fonts are commonly used and loaded, as well as point you to well-tested workarounds and future standards-based solutions.
+***
+[Everything you need to learn CSS Grid Layout](https://gridbyexample.com/)
+> This site is a collection of examples, video and other information to help you learn CSS Grid Layout.
 ***
 <br /><br />
 ## #GoodReads
@@ -90,4 +80,13 @@
 <br /><br />
 ## #MicroInteractions
 [Infinity loader with backdrop  ](https://codepen.io/hsmajlagic/pen/PQKYXY)
+***
+[Customize the Browser's Scrollbar with CSS](https://scotch.io/tutorials/customize-the-browsers-scrollbar-with-css)
+> There are basically a few ways to implement a custom scrollbar. In this tutorial we will be using CSS3, which is the most straightforward way.
+***
+[Hover.css](https://ianlunn.github.io/Hover/)
+> A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. 
+***
+[Very cool pure CSS  loader](https://codepen.io/bojankrsmanovic/pen/dpzZkm)
+> A very cool pure CSS loader.
 ***

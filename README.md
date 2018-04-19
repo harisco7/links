@@ -69,6 +69,9 @@
 [Everything you need to learn CSS Grid Layout](https://gridbyexample.com/)
 > This site is a collection of examples, video and other information to help you learn CSS Grid Layout.
 ***
+[ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
+> Here are examples of everything new in ECMAScript 2016, 2017, and 2018
+***
 <br /><br />
 ## #GoodReads
 [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)

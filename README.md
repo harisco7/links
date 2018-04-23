@@ -72,6 +72,9 @@
 [ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
 > Here are examples of everything new in ECMAScript 2016, 2017, and 2018
 ***
+[Simple React Patterns](https://lucasmreis.github.io/blog/simple-react-patterns/)
+> Dealing With Side-Effects In React
+***
 <br /><br />
 ## #GoodReads
 [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)

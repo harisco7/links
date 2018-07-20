@@ -75,6 +75,9 @@
 [Simple React Patterns](https://lucasmreis.github.io/blog/simple-react-patterns/)
 > Dealing With Side-Effects In React
 ***
+[Guide to Using Redis with Node.js](http://thisdavej.com/guides/redis-node/)
+>  In this guide, we'll explore using Redis, a fast in-memory database that persists on disk, in concert with Node.js
+***
 <br /><br />
 ## #GoodReads
 [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)

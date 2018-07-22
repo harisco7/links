@@ -76,7 +76,10 @@
 > Dealing With Side-Effects In React
 ***
 [Guide to Using Redis with Node.js](http://thisdavej.com/guides/redis-node/)
->  In this guide, we'll explore using Redis, a fast in-memory database that persists on disk, in concert with Node.js
+> In this guide, we'll explore using Redis, a fast in-memory database that persists on disk, in concert with Node.js
+***
+[Keeping aspect-ratio with HTML and no padding tricks](https://codeburst.io/keeping-aspect-ratio-with-html-and-no-padding-tricks-40705656808b)
+> For a long time we’ve been told the only way to have a DOM element keep a fixed aspect ratio without Javascript is with the % padding trick.
 ***
 <br /><br />
 ## #GoodReads

@@ -113,5 +113,7 @@
 ***
 [The Inter UI font family](https://rsms.me/inter/)
 ***
-[Use tomorrow’s CSS syntax, today.](http://cssnext.io/)
+[Use tomorrow’s CSS syntax, today](http://cssnext.io/)
+***
+[Laws of UX](https://lawsofux.com/)
 ***

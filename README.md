@@ -81,6 +81,9 @@
 [Keeping aspect-ratio with HTML and no padding tricks](https://codeburst.io/keeping-aspect-ratio-with-html-and-no-padding-tricks-40705656808b)
 > For a long time we’ve been told the only way to have a DOM element keep a fixed aspect ratio without Javascript is with the % padding trick.
 ***
+[Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f)
+> These patterns improve readability, code clarity, and push your code towards composition and reusability.
+***
 <br /><br />
 ## #GoodReads
 [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)

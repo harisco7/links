@@ -95,6 +95,9 @@
 [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
 > This guide is not intended for use with font icons, which have different loading priorities and use cases. Also, SVG is probably a better long term choice.
 ***
+[The Best User Experience Design Links of 2017](https://medium.com/@kennycheny/the-best-user-experience-design-links-of-2017-6163ad013a1c)
+> Here’s a look at the the best user experience articles, tools, and media from 2017.
+***
 <br /><br />
 ## #MicroInteractions
 [Infinity loader with backdrop  ](https://codepen.io/hsmajlagic/pen/PQKYXY)

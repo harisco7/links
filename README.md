@@ -3,9 +3,6 @@
 [What algorithms should I know to become a good programmer?](https://www.quora.com/What-algorithms-should-I-know-to-become-a-good-programmer/answer/Ashish-Kedia)
 > A friendly reminder on what algorithms should I know to one day be part of the #GoodProgrammer group. Come back to the list every once and a while to continue the learning process.
 ***
-[A curated directory of boilerplates to help you start your projects!](http://www.boilrplate.com/)
-> A good index of a lot of starter kits and boilerplates available out there.
-***
 [A Directory of Progressive Web Apps](https://pwa-directory.appspot.com/)
 > A collection of various Progressive Web Apps to inspire you and help you with your own.
 ***
@@ -118,6 +115,8 @@
 [Font style matcher](https://meowni.ca/font-style-matcher/)
 ***
 [The Inter UI font family](https://rsms.me/inter/)
+***
+[The Heldane Design Information Font](https://klim.co.nz/blog/heldane-design-information/)
 ***
 [Use tomorrow’s CSS syntax, today](http://cssnext.io/)
 ***

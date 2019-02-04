@@ -59,7 +59,37 @@
 ***
 <br /><br />
 ## #GoodReads
-[Infinity loader with backdrop  ](https://codepen.io/hsmajlagic/pen/PQKYXY)
+[Everything You Wanted To Know About Procrastination But Were Too Lazy to Figure Out](https://markmanson.net/procrastination?utm_source=facebook&utm_medium=social)
+***
+[Why Self-Compassion Beats Self-Confidence - The New York Times](https://www.nytimes.com/2017/12/28/smarter-living/why-self-compassion-beats-self-confidence.html)
+***
+[13 Things You Should Give Up If You Want To Be Successful](https://medium.com/personal-growth/13-things-you-need-to-give-up-if-you-want-to-be-successful-44b5b9b06a26)
+***
+[7 Deep Work Tips That Will Dramatically Boost Your Productivity — SitePoint](https://www.sitepoint.com/deep-work-tips-that-will-dramatically-boost-your-productivity/)
+***
+[8 Proven Performance Practices from Billionaires and Elite Athletes](https://journal.thriveglobal.com/8-proven-performance-practices-from-billionaires-and-elite-athletes-4de26bf88ba7)
+***
+[6 Reasons Why Your Comfort Zone Is Holding You Back In Life](http://www.lifehack.org/articles/communication/6-reasons-why-your-comfort-zone-holding-you-back-life.html)
+***
+[11 Psychology Books That Will Improve Your Work and Life | Thrive Global](https://www.thriveglobal.com/stories/17969-11-top-positive-psychology-books-that-will-improve-your-work-and-life)
+***
+[Want To Become A Multi-Millionaire? Do These 15 Things Immediately.](https://journal.thriveglobal.com/want-to-become-a-multi-millionaire-do-these-15-things-immediately-e1e779a6978f)
+***
+[Want to Live a Life 99% of Other People Will Envy? Read This Immediately.](https://medium.com/@anthony_moore/want-to-live-a-life-99-of-other-people-will-envy-read-this-immediately-706a321a81dc)
+***
+[The Pressing Need for Everyone to Quiet Their Egos - Scientific American Blog Network](https://blogs.scientificamerican.com/beautiful-minds/the-pressing-need-for-everyone-to-quiet-their-egos/)
+***
+[Denialism: what drives people to reject the truth | News | The Guardian](https://www.theguardian.com/news/2018/aug/03/denialism-what-drives-people-to-reject-the-truth)
+***
+[Immanuel Kant and The One Rule for Life | Mark Manson](https://markmanson.net/the-one-rule-for-life)
+***
+[Digital immortality: How your life’s data means a version of you could live forever - MIT Technology Review](https://www.technologyreview.com/s/612257/digital-version-after-death/)
+***
+[Remember what you read: Build a recall system using IFTTT, Instapaper, Evernote, and Bookcision — Quartz at Work](https://qz.com/work/1217245/how-to-make-better-use-of-everything-you-read/)
+***
+[5 Common Mental Errors That Sway Your Decision Making](https://jamesclear.com/common-mental-errors)
+***
+[THE PHILOSOPHY OF MONEY - SlidePDF.Org](https://slidepdf.org/philosophy-of-money.html)
 ***
 <br /><br />
 ## #OtherBookmarks

@@ -92,7 +92,7 @@
 [THE PHILOSOPHY OF MONEY - SlidePDF.Org](https://slidepdf.org/philosophy-of-money.html)
 ***
 <br /><br />
-## #OtherBookmarks
+## #DevBookmarks
 [Font Face Observer](https://fontfaceobserver.com/)
 ***
 [Font style matcher](https://meowni.ca/font-style-matcher/)

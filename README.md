@@ -1,5 +1,8 @@
 # Highly personalized list of interesting articles/tutorials
 <br /><br />
+[The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
+> Well, in this article I won’t write anything new, I just want to collect all the main principles & rules in one place, so that other designers who want to start animating interfaces don’t have to search for additional information.
+***
 [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
 > This guide is not intended for use with font icons, which have different loading priorities and use cases. Also, SVG is probably a better long term choice.
 ***
@@ -58,6 +61,32 @@
 > There are basically a few ways to implement a custom scrollbar. In this tutorial we will be using CSS3, which is the most straightforward way.
 ***
 <br /><br />
+## #DevBookmarks
+[Font Face Observer](https://fontfaceobserver.com/)
+***
+[Font style matcher](https://meowni.ca/font-style-matcher/)
+***
+[The Inter UI font family](https://rsms.me/inter/)
+***
+[The Heldane Design Information Font](https://klim.co.nz/blog/heldane-design-information/)
+***
+[Use tomorrow’s CSS syntax, today](http://cssnext.io/)
+***
+[Laws of UX](https://lawsofux.com/)
+***
+[Learn CSS Grid](https://learncssgrid.com/)
+***
+[Exclusive Design](https://exclusive-design.vasilis.nl/)
+***
+[Contrast ratio](https://contrast-ratio.com/)
+***
+[The super fast color schemes generator](https://coolors.co/)
+***
+[Easing Functions](https://easings.net/)
+***
+[Cubic-bezier](http://cubic-bezier.com)
+***
+<br /><br />
 ## #GoodReads
 [Everything You Wanted To Know About Procrastination But Were Too Lazy to Figure Out](https://markmanson.net/procrastination?utm_source=facebook&utm_medium=social)
 ***
@@ -90,22 +119,4 @@
 [5 Common Mental Errors That Sway Your Decision Making](https://jamesclear.com/common-mental-errors)
 ***
 [THE PHILOSOPHY OF MONEY - SlidePDF.Org](https://slidepdf.org/philosophy-of-money.html)
-***
-<br /><br />
-## #DevBookmarks
-[Font Face Observer](https://fontfaceobserver.com/)
-***
-[Font style matcher](https://meowni.ca/font-style-matcher/)
-***
-[The Inter UI font family](https://rsms.me/inter/)
-***
-[The Heldane Design Information Font](https://klim.co.nz/blog/heldane-design-information/)
-***
-[Use tomorrow’s CSS syntax, today](http://cssnext.io/)
-***
-[Laws of UX](https://lawsofux.com/)
-***
-[Learn CSS Grid](https://learncssgrid.com/)
-***
-[Exclusive Design](https://exclusive-design.vasilis.nl/)
 ***

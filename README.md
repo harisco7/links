@@ -1,5 +1,8 @@
 # Highly personalized list of interesting articles/tutorials
-<br /><br />
+<br />
+[Web Push Notifications](https://webpushdemo.azurewebsites.net/)
+> Welcome to the future of the web — where push messages can help you achieve better engagement for your site or web app.
+***
 [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 > Well, in this article I won’t write anything new, I just want to collect all the main principles & rules in one place, so that other designers who want to start animating interfaces don’t have to search for additional information.
 ***

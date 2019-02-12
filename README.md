@@ -1,5 +1,9 @@
 # Highly personalized list of interesting articles/tutorials
 
+
+[Web Push Notifications](https://webpushdemo.azurewebsites.net/)
+> Welcome to the future of the web — where push messages can help you achieve better engagement for your site or web app.
+***
 [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 > Well, in this article I won’t write anything new, I just want to collect all the main principles & rules in one place, so that other designers who want to start animating interfaces don’t have to search for additional information.
 ***
@@ -61,6 +65,7 @@
 > There are basically a few ways to implement a custom scrollbar. In this tutorial we will be using CSS3, which is the most straightforward way.
 ***
 
+
 ## #DevBookmarks
 [Font Face Observer](https://fontfaceobserver.com/)
 ***
@@ -86,6 +91,7 @@
 ***
 [Cubic-bezier](http://cubic-bezier.com)
 ***
+
 
 ## #GoodReads
 [Everything You Wanted To Know About Procrastination But Were Too Lazy to Figure Out](https://markmanson.net/procrastination?utm_source=facebook&utm_medium=social)

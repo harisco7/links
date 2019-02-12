@@ -1,5 +1,5 @@
 # Highly personalized list of interesting articles/tutorials
-
+***
 
 [Web Push Notifications](https://webpushdemo.azurewebsites.net/)
 > Welcome to the future of the web — where push messages can help you achieve better engagement for your site or web app.
@@ -67,6 +67,7 @@
 
 
 ## #DevBookmarks
+***
 [Font Face Observer](https://fontfaceobserver.com/)
 ***
 [Font style matcher](https://meowni.ca/font-style-matcher/)
@@ -94,6 +95,7 @@
 
 
 ## #GoodReads
+***
 [Everything You Wanted To Know About Procrastination But Were Too Lazy to Figure Out](https://markmanson.net/procrastination?utm_source=facebook&utm_medium=social)
 ***
 [Why Self-Compassion Beats Self-Confidence - The New York Times](https://www.nytimes.com/2017/12/28/smarter-living/why-self-compassion-beats-self-confidence.html)

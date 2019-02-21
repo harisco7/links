@@ -1,6 +1,9 @@
 # Highly personalized list of interesting articles/tutorials
 ***
 
+[The (new) React lifecycle methods in plain, approachable language](https://blog.logrocket.com/the-new-react-lifecycle-methods-in-plain-approachable-language-61a2105859f3)
+> What are lifecycle methods? How do the new React16+ lifecycle methods fit in? How can you intuitively understand what they are and why they are useful?
+***
 [Web Push Notifications](https://webpushdemo.azurewebsites.net/)
 > Welcome to the future of the web — where push messages can help you achieve better engagement for your site or web app.
 ***

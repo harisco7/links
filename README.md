@@ -74,7 +74,7 @@
 
 
 ## #DevBookmarks
-> 
+<br />
 
 [Font Face Observer](https://fontfaceobserver.com/)
 ***
@@ -103,7 +103,7 @@
 
 
 ## #GoodReads
-> 
+<br />
 
 [Everything You Wanted To Know About Procrastination But Were Too Lazy to Figure Out](https://markmanson.net/procrastination?utm_source=facebook&utm_medium=social)
 ***

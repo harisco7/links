@@ -2,6 +2,9 @@
 > Highly personalized list of interesting links, articles, tutorials etc.
 <br />
 
+[HTML slides without frameworks, just CSS](https://www.chenhuijing.com/blog/html-slides-without-frameworks/)
+> I came across an implementation by Ondřej Žára for pure CSS slides and dug into his codebase to see what I could use for my own watered-down HTML slides. 
+***
 [Regex Cheat Sheet](https://dev.to/emmawedekind/regex-cheat-sheet-2j2a)
 > A regular expression, or 'regex', is used to match parts of a string. Below is my cheat sheet for creating regular expressions.
 ***

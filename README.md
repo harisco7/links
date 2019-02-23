@@ -1,7 +1,10 @@
 # Personal Bookmarks 
 > Highly personalized list of interesting links, articles, tutorials etc.
-# 
+>
 
+[Regex Cheat Sheet](https://dev.to/emmawedekind/regex-cheat-sheet-2j2a)
+> A regular expression, or 'regex', is used to match parts of a string. Below is my cheat sheet for creating regular expressions.
+***
 [The (new) React lifecycle methods in plain, approachable language](https://blog.logrocket.com/the-new-react-lifecycle-methods-in-plain-approachable-language-61a2105859f3)
 > What are lifecycle methods? How do the new React16+ lifecycle methods fit in? How can you intuitively understand what they are and why they are useful?
 ***
@@ -71,7 +74,7 @@
 
 
 ## #DevBookmarks
-***
+
 [Font Face Observer](https://fontfaceobserver.com/)
 ***
 [Font style matcher](https://meowni.ca/font-style-matcher/)
@@ -99,7 +102,7 @@
 
 
 ## #GoodReads
-***
+
 [Everything You Wanted To Know About Procrastination But Were Too Lazy to Figure Out](https://markmanson.net/procrastination?utm_source=facebook&utm_medium=social)
 ***
 [Why Self-Compassion Beats Self-Confidence - The New York Times](https://www.nytimes.com/2017/12/28/smarter-living/why-self-compassion-beats-self-confidence.html)

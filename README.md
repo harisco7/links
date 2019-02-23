@@ -1,5 +1,7 @@
-# Highly personalized list of interesting articles/tutorials
-***
+# Personal Bookmarks 
+> Highly personalized list of interesting links, articles, tutorials etc.
+
+
 
 [The (new) React lifecycle methods in plain, approachable language](https://blog.logrocket.com/the-new-react-lifecycle-methods-in-plain-approachable-language-61a2105859f3)
 > What are lifecycle methods? How do the new React16+ lifecycle methods fit in? How can you intuitively understand what they are and why they are useful?

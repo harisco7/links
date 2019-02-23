@@ -1,6 +1,6 @@
 # Personal Bookmarks 
 > Highly personalized list of interesting links, articles, tutorials etc.
->
+<br />
 
 [Regex Cheat Sheet](https://dev.to/emmawedekind/regex-cheat-sheet-2j2a)
 > A regular expression, or 'regex', is used to match parts of a string. Below is my cheat sheet for creating regular expressions.
@@ -72,6 +72,7 @@
 > There are basically a few ways to implement a custom scrollbar. In this tutorial we will be using CSS3, which is the most straightforward way.
 ***
 
+<br />
 
 ## #DevBookmarks
 <br />
@@ -101,6 +102,7 @@
 [Cubic-bezier](http://cubic-bezier.com)
 ***
 
+<br />
 
 ## #GoodReads
 <br />

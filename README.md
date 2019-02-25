@@ -2,6 +2,9 @@
 > Highly personalized list of interesting links, articles, tutorials etc.
 <br />
 
+[JavaScript Loading Priorities in Chrome](https://addyosmani.com/blog/script-priorities/)
+> How browsers schedule and execute scripts can impact the performance of web pages. While techniques like <script defer>, <link rel=preload> (and others) influence script loading, knowing how browsers interpret them can also be helpful. 
+***
 [HTML slides without frameworks, just CSS](https://www.chenhuijing.com/blog/html-slides-without-frameworks/)
 > I came across an implementation by Ondřej Žára for pure CSS slides and dug into his codebase to see what I could use for my own watered-down HTML slides. 
 ***

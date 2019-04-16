@@ -2,6 +2,18 @@
 > Highly personalized list of interesting links, articles, tutorials etc.
 <br />
 
+[From Redux to Hooks: A Case Study](https://staleclosures.dev/from-redux-to-hooks-case-study/)
+> After several years of using Redux for most of our projects we decided to try useReducer/useContext approach instead. Here is what we learned.
+***
+[State Management with React Hooks and Context API in 10 lines of code!](https://medium.com/simply/state-management-with-react-hooks-and-context-api-at-10-lines-of-code-baf6be8302c)
+> Ultimate and super simple Redux alternative for your App.
+***
+[A complete guide to threads in Node.js](https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f)
+> Many people wonder how a single-threaded Node.js can compete with multithreaded back ends. As such, it may seem counterintuitive that so many huge companies pick Node as their back end, given its supposed single-threaded nature. 
+***
+[Top 10 Application-Design Mistakes](https://www.nngroup.com/articles/top-10-application-design-mistakes/)
+> Application usability is enhanced when the UI guides and supports users through the workflow.
+***
 [JavaScript Loading Priorities in Chrome](https://addyosmani.com/blog/script-priorities/)
 > How browsers schedule and execute scripts can impact the performance of web pages. While techniques like <script defer>, <link rel=preload> (and others) influence script loading, knowing how browsers interpret them can also be helpful. 
 ***

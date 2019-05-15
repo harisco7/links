@@ -2,6 +2,9 @@
 > Highly personalized list of interesting links, articles, tutorials etc.
 <br />
 
+[6 tips for better React performance](https://itnext.io/6-tips-for-better-react-performance-4329d12c126b)
+> In this article I will try and list out a few easy ways to achieve better performance in your React app through simple development hacks.
+***
 [From Redux to Hooks: A Case Study](https://staleclosures.dev/from-redux-to-hooks-case-study/)
 > After several years of using Redux for most of our projects we decided to try useReducer/useContext approach instead. Here is what we learned.
 ***

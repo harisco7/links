@@ -2,6 +2,12 @@
 > Highly personalized list of interesting links, articles, tutorials etc.
 <br />
 
+[A Practical Guide to Symbols in JavaScript](http://thecodebarbarian.com/a-practical-guide-to-symbols-in-javascript.html)
+> JavaScript introduced symbols in ES6 as a way to prevent property name collisions. As an added bonus, symbols also provide a way to simulate private properties in 2015-2019 JavaScript.
+***
+[My Opinionated git Cheat Sheet](https://www.bennadel.com/blog/3587-my-opinionated-git-cheat-sheet.htm)
+> So, in an effort to help me grow my git mental model, I wanted to put together an opinionated git cheat sheet - a place in which I can codify my understanding of git commands so that I could refer to them when my brain inevitably fails me.
+***
 [6 tips for better React performance](https://itnext.io/6-tips-for-better-react-performance-4329d12c126b)
 > In this article I will try and list out a few easy ways to achieve better performance in your React app through simple development hacks.
 ***

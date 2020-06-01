@@ -2,6 +2,12 @@
 > Highly personalized list of interesting links, articles, tutorials etc.
 <br />
 
+[A micro-animations library](https://useanimations.com/index.html)
+> Animated icons in Lottie Framework for immediate implementation to your apps or websites.
+***
+[30 Web Development Checklists Every Team Should Keep Handy](https://www.sitepoint.com/web-development-checklists/)
+> We searched the web for the most useful web development checklists. They cover everything from front-end and performance to SEO and marketing.
+***
 [$0 Design Tools](https://www.producthunt.com/e/0-design-tools)
 > A collection of $0 Design Tools to Help You Create Your Next Project.
 ***

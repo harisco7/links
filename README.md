@@ -2,6 +2,12 @@
 > Highly personalized list of interesting links, articles, tutorials etc.
 <br />
 
+[10 lesser-known Web APIs you may want to use](https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn)
+> In this article, I am going to talk about 10 more web APIs that are not so popular. Lesser popular doesn't mean, they are not useful. You can use them in various use-cases of your project.
+***
+[8 ways to deploy a React app for free](https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/)
+> In this tutorial, we’ll demonstrate how to deploy a React application in eight different ways. All the services described in this post are completely free with no hidden credit card requirements.
+***
 [A micro-animations library](https://useanimations.com/index.html)
 > Animated icons in Lottie Framework for immediate implementation to your apps or websites.
 ***

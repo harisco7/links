@@ -2,6 +2,9 @@
 > Highly personalized list of interesting links, articles, tutorials etc.
 <br />
 
+[Best design 🎨 resources websites every developer 💻 should bookmark](https://dev.to/theme_selection/best-design-resources-websites-every-developer-should-bookmark-1p5d)
+> Here you'll find the best websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, Icons, and Illustrations, etc.
+***
 [10 lesser-known Web APIs you may want to use](https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn)
 > In this article, I am going to talk about 10 more web APIs that are not so popular. Lesser popular doesn't mean, they are not useful. You can use them in various use-cases of your project.
 ***

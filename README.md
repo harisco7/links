@@ -2,6 +2,9 @@
 > Highly personalized list of interesting links, articles, tutorials etc.
 <br />
 
+[The Fastest Google Fonts](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
+> Google Fonts Async Snippet
+***
 [Best design 🎨 resources websites every developer 💻 should bookmark](https://dev.to/theme_selection/best-design-resources-websites-every-developer-should-bookmark-1p5d)
 > Here you'll find the best websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, Icons, and Illustrations, etc.
 ***
